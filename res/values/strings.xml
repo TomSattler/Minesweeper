@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="smiley">😃</string>
+    <string name="flag">🚩</string>
+    <string name="bomb">💣</string>
+    <string name="time">000</string>
+    <string name="size">00</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="size_string">Size</string>
+    <string name="amount_bombs">Amount Bombs</string>
+    <string name="explosion">💥</string>
+</resources>
